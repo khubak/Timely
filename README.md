@@ -1,5 +1,5 @@
 # Timely
 Simple project time tracking app
 
-#Stack
+Stack used:
 Java, Spring Boot, MySQL, Angular
